@@ -1,0 +1,56 @@
+/* General styling */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fffdf8;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f7c59f;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 40px;
+  margin: 0;
+}
+
+header p {
+  font-size: 18px;
+}
+
+.hero {
+  text-align: center;
+  padding: 30px;
+  background-color: #fff5e1;
+}
+
+.testimonials {
+  background-color: #fffaf0;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.testimonials h2 {
+  text-align: center;
+  color: #d2691e;
+  margin-bottom: 20px;
+}
+
+.review {
+  background-color: #fff;
+  border-left: 5px solid #d2691e;
+  padding: 15px 20px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #f7c59f;
+}
